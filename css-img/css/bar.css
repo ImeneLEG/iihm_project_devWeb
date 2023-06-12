@@ -1,0 +1,23 @@
+.search-wrapper {
+  display: grid;
+  place-items: center;
+}
+
+#clothesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#clothesList li{
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+
+}
+
+#clothesList li img{
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}

@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&family=Raleway:wght@300&display=swap');
+
+:root {
+  --primary-color: #BCD0ED;
+  --secondary-color: #254F59;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.categories {
+  margin: 17px 0;
+  width: 100%;
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+  gap: 17px;
+}
+
+/*1st and 2nd three categories*/
+.first-stack, .second-stack {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  gap: 17px;
+  /* overflow: hidden; */
+}
+
+/*contains the image and it's text and explore button*/
+.container-cercle {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  transition: transform 0.6s ease;
+  overflow: hidden;
+}
+
+/*images of categories*/
+.cercle {
+  width: 450px;
+  height: 450px;
+  display: flex;
+  justify-content: start;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 805px) and (max-width: 1300px) {
+  .cercle {
+    width: 250px;
+  }
+}
+
+@media screen and (min-width: 1300px) and (max-width: 1400px) {
+  .cercle {
+    width: 400px;
+  }
+}
+
+
+.container-cercle:hover{
+  transform: scale(1.05) /* rotate(-3deg) */;
+}
+
+.container-cercle:hover::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(14, 14, 14, 0.2);
+}
+
+.container-cercle:hover .text-btn {
+  visibility: visible;
+}
+
+/*description text of the categories*/
+.type-desc {
+  font-size: 1.2rem;
+  color: white; /*rgb(54, 111, 158) the blue color*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+/* font-family: 'Raleway', sans-serif; */
+}
+
+/*explore button*/
+.explore {
+  position: relative;
+  background-color: transparent;
+  border-color:white;
+  padding: 10px 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  color: white;
+  transition: 0.8s;
+  overflow: hidden;
+}
+
+.explore:hover {
+  color: black;
+}
+
+.explore::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  background: white;
+  z-index: -1;
+  transition: 1.2s;
+  top: 0;
+  border-radius: 0 0 40% 40%;
+}
+
+.explore:hover::before {
+  height: 180%;
+}
+
+/*contains both text and button of the categories*/
+.text-btn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  transform: translate(0%, 50%);
+  transition: 0.5s;
+  visibility: hidden;
+} 
+
+button a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*same code as .container-cercle*/
+.custom-product-category {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  transition: transform 0.6s ease;
+  overflow: hidden;
+}
+
+.custom-product-category .cercle{
+  width: 90vw;
+}
+
+.custom-product-category:hover{
+  transform: scale(1.02);
+}
+
+.custom-product-category:hover::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 1;
+  height: 100%;
+  background-color: rgba(14, 14, 14, 0.2);
+  width: 90vw;
+}
+
+.custom-product-category:hover .text-btn {
+  visibility: visible;
+}
+
+@media screen and (max-width: 768px) {
+  .custom-product-category .cercle {
+    width: 450px;
+    height: 450px;
+  }
+  .custom-product-category:hover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 1;
+    width: 450px;
+    height: 450px;
+    background-color: rgba(14, 14, 14, 0.2);
+  }
+}
