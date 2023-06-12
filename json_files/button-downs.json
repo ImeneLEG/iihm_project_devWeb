@@ -1,0 +1,122 @@
+[
+  {
+    "id": 43,
+    "title": "Vintage Indigo",
+    "price": 40,
+    "description": "A timeless button-down t-shirt with a touch of retro charm, featuring an indigo hue and classic design",
+    "image": {
+      "back": "https://n.nordstrommedia.com/id/sr3/afb1d7a8-fb8f-4864-96ae-660f052a4297.jpeg?h=365&w=240&dpr=2", 
+      "front": "https://n.nordstrommedia.com/id/sr3/1fab9c48-8163-424f-bfac-b8779686ae9b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Urban Chic",
+    "price": 45,
+    "description": "Make a fashion statement with this urban-inspired button-down t-shirt, combining modern style with effortless sophistication",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/87e1c368-8716-4d5e-9daf-e768182082b7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "back": "https://n.nordstrommedia.com/id/sr3/2e6b83bb-7ee1-4088-8b94-1e76d43d09f3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Minnesota Timberwolves Encapuchonné",
+    "price": 45,
+    "description": "Minnesota Timberwolves Encapuchonné Oversize Fit Sweat- Shirt",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/c2069b61-a54c-4121-a0ff-fd4c84d3ff86.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/ef481217-097c-4502-87e6-b4c91c35579c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://picsum.photos/640/640?r=189"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Sleek Monochrome",
+    "price": 20,
+    "description": "Achieve a sleek and minimalist look with this monochrome button-down t-shirt, offering clean lines and understated elegance",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/92a01f37-60c1-46e9-bd79-9dd84a1a6bf5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/ab006b79-81d3-471c-ad1d-ed500a3a4e9a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Tropical Breeze",
+    "price": 50,
+    "description": "Experience a taste of paradise with this button-down t-shirt, adorned with vibrant tropical patterns and a breezy fit.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/bb77c3b4-881f-4750-800c-c55aa9c6c4dd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/5cdd5ace-4930-498b-9c9d-55421ee8b840.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Bohemian Vibes",
+    "price": 20,
+    "description": "Embrace your free-spirited side with this bohemian-inspired button-down t-shirt, featuring intricate patterns and a relaxed fit",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/7206883c-25cc-4a3a-a3e6-000505248773.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/a222c9d2-faa6-45d6-aa81-06dd61298eea.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://picsum.photos/640/640?r=8923"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Col Ras Sweat- Shirt",
+    "price": 50,
+    "description": "A vacay-worthy print lends mesmerizing visual dimension to this button-up shirt crafted from breezy viscose with a notched collar.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/b85837df-b0be-42ee-be28-bcb9bd0e7f6c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/b85837df-b0be-42ee-be28-bcb9bd0e7f6c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Bold Stripes",
+    "price": 45,
+    "description": "Make a bold fashion statement with this striped button-down t-shirt, boasting eye-catching stripes and a contemporary edge.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/9e106a7f-c43a-4a4e-8d37-1492f77ea031.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/8e857411-1bf2-403a-9b2a-016a0fa280d2.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  }
+]

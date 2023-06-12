@@ -1,0 +1,137 @@
+[
+  {
+    "id": 43,
+    "title": "Regular Fit Jersey Shirt",
+    "price": 80,
+    "description": "Regular Fit Jersey Shirt - Black - Men ",
+    "image": {
+      "front": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb2%2F48%2Fb2485b8897552bf111ff6ac94ebd8daf98d558fc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D", 
+      "back": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0e%2F0c%2F0e0cf830900fda77dad26aaab238ecdc50a9d786.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Long Sleeve Shirt",
+    "price": 50,
+    "description": "Relax Fit Long Sleeve Shirt",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/Y9738AZ_22AU_RD296_08_01.jpg",
+      "back": "https://dfcdn.defacto.com.tr/7/Y9738AZ_22AU_RD296_05_02.jpg"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Coool Velvet Shirt",
+    "price": 75,
+    "description": "Coool Velvet Shirt Collar Long Sleeve Tunic",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/Z0479AZ_22AU_PR68_04_02.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/Z0479AZ_22AU_PR68_07_01.jpg"
+    },
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://picsum.photos/640/640?r=189"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Slim Long Sleeve ",
+    "price": 50,
+    "description": "Slim Fit Long Sleeve Shirt beige color",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/U8570AZ_22SM_BG415_06_02.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/U8570AZ_22SM_BG415_08_02.jpg"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Long Sleeve Shirt",
+    "price": 30,
+    "description": "Regular Fit Long Sleeve Shirt white color",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/Z9655AZ_22AU_WT34_02_01.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/Z9655AZ_22AU_WT34_07_01.jpg"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Long Sleeve Shirt",
+    "price": 55,
+    "description": "Modern Fit Long Sleeve Shirt",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/M9435AZ_22SM_NM15_01_01.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/M9435AZ_22SM_NM15_02_01.jpg"
+    },
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://picsum.photos/640/640?r=8923"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Long Sleeve Dress",
+    "price": 80,
+    "description": "Relax Fit Printed Maxi Long Sleeve Dress",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/Y4395AZ_22HS_BG431_02_02.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/Y4395AZ_22HS_BG431_06_01.jpg"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 51,
+    "title": "Long Sleeve Shirt",
+    "price": 40,
+    "description": "Regular Fit Long Sleeve Shirt Green color",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/W4515AZ_22SP_GN691_03_01.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/W4515AZ_22SP_GN691_06_01.jpg"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": ""
+    }
+  },
+  {
+    "id": 52,
+    "title": "Long Sleeve Shirt",
+    "price": 65,
+    "description": "Relax Fit Long Sleeve Shirt",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/W1265AZ_21WN_KH244_02_02.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/W1265AZ_21WN_KH244_07_01.jpg"
+    },
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=7222"
+    }
+  }
+]

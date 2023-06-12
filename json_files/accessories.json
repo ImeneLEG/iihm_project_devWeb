@@ -1,0 +1,153 @@
+[
+  {
+    "id": 43,
+    "title": "Sunglasses",
+    "price": 87,
+    "description": "Lightweight, versatile sunglasses feature classic square frames and tonal branding at the temples for a clean, minimalist look perfect for around-town wear",
+    
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/27e62050-72e8-4f3a-af1a-160804c6c4eb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/02003be7-59a9-407d-90b0-94852f0d0f28.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Hats",
+    "price": 75.27,
+    "description": "A smart moisture-wicking lining ensures superior comfort in a breathable perforated hat with a glare-reducing visor lining for superior clarity.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/1994099e-0205-4b56-953d-08df39aa9801.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "back": "https://n.nordstrommedia.com/id/sr3/247aa978-654b-4ca6-b654-23e6171b82b7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Saint Laurent Bags",
+    "price": 1458,
+    "description": "Diamond quilting brings intriguing texture to a compact lambskin pouch furnished with an adjustable crossbody strap and branded with antiqued YSL hardware.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/c91d23b3-9b00-4648-a6f3-bcef528af41a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/f5cab9dc-3cca-4571-89ea-f9f14b600237.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://picsum.photos/640/640?r=189"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Women's Belts",
+    "price": 95,
+    "description": "An antiqued VLOGO buckle based on a 1979 archival motif brands this reversible leather belt featuring two keepers to match or contrast with each side.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/9626b544-a8fc-47e2-855e-d0d05b5eb48a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/8f821010-e8b7-4506-9428-0e36e2c55ddf.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Men's Ties",
+    "price": 313,
+    "description": "A bold House check lends signature distinction to a supremely soft cashmere scarf tipped with slim fringe.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/4d450a41-3c5f-47ab-8c0a-0951937fa25a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/72d1efaf-cf59-490e-8e36-0afdf82e14ea.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Men's Scarves",
+    "price": 545,
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/9693e42b-7ccd-4368-b80a-411692dcc753.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/9ff751c5-82dd-4642-a406-3ddc0503c822.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://picsum.photos/640/640?r=8923"
+    }
+  },
+  {
+    "id": 500,
+    "title": "Women's Rings",
+    "price": 205,
+    "description": "Pavé stones sparkle and shine on this set of eclectic goldtone rings that creates a perfect stack.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/529815b3-4f20-41f3-af1f-cff29ad9f398.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/8705a584-ab63-46c7-9290-6e0cec9a3b11.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 50,
+    "title": "phone case",
+    "price": 85,
+    "description": "Made from the brand's innovative, shock-resistant qìtech™ material, this minimalist, hardside iPhone case is co-molded with an impact-absorbing inner layer.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/22b28dc2-35db-472c-b043-a12947171ffb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/d0dd5476-57a8-482c-851f-6be5a120a5e9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 51,
+    "title": "watches for men",
+    "price": 721,
+    "description": "Movado Heritage Chronograph Leather Strap Watch, 43mm",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/40c3c096-2089-4f2a-9792-e2def704cf0a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/a2e7789a-2999-4919-8b6b-2192dd02e4b3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": ""
+    }
+  },
+  {
+    "id": 52,
+    "title": "Women's Hair Accessories",
+    "price": 230,
+    "description": "Elegant imitation pearls lend hints of luster to this assorted pack of six hair clips.",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/f552422f-bb3c-498c-8f69-4b35c61a6d1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/f24f4c9e-e6e2-412d-acff-25787c569a90.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=7222"
+    }
+  }
+]

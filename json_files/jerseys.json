@@ -1,0 +1,152 @@
+[
+  {
+    "id": 43,
+    "title": "Lady bl",
+    "price": 30,
+    "description": "Sweat À Capuche Coupe Oversize",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/f9bbbfbf-b9d9-4f7b-96cb-2bccff5bc75c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/d2f8af20-680e-47d4-a7c3-61d113f867a3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Brixton",
+    "price": 50,
+    "description": "Kick back and relax in this soft and airy cotton tank top embellished with a classic logo on the chest",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/bf12228f-f1db-48e0-86a9-d3a30b715219.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "back": "https://n.nordstrommedia.com/id/sr3/94986899-5f72-47db-bca1-471860b91a1c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Asos design",
+    "price": 45,
+    "description": "An abstract design in a soft and fuzzy knit gives a fashion-forward look to this cozy sweater-vest",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/527366d1-f079-4754-83a4-4667a962bf8a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/8089bfb2-6e0f-4ecd-afb8-369a27271d00.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://picsum.photos/640/640?r=189"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Kangaroo Sweat- Shirt",
+    "price": 35,
+    "description": "Kangaroo Encapuchonné Imprimé Manche Longue Oversize Fit Sweat- Shirt",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/e9e731c0-645f-4929-ac07-34e8349f7765.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/e0c8703b-fe51-4013-a345-120295f7cb77.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 47,
+    "title": "DB jersey",
+    "price": 35,
+    "description": "The top is cut in a standard fit for a relaxed, easy feel, perfect to training or a off-duty look",
+    "image": {
+      "front": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e2a8912d-537b-4ce7-a0d6-35c9bf64fb71/devin-booker-phoenix-suns-2023-select-series-mens-dri-fit-nba-swingman-jersey-WV7pCW.png", 
+      "back": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/5855e4a9-7910-4e48-a2da-377e599e1bfd/devin-booker-phoenix-suns-2023-select-series-mens-dri-fit-nba-swingman-jersey-WV7pCW.png"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Quicksliver",
+    "price": 50,
+    "description": "Bright stripes bring sunny energy to a tank made for enjoying your days in the comfort of breathable organic cotton",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/fce0c8a6-4749-4425-a22a-451c9b12832f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/fce0c8a6-4749-4425-a22a-451c9b12832f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://picsum.photos/640/640?r=8923"
+    }
+  },
+  {
+    "id": 49,
+    "title": "D WADE miami",
+    "price": 99,
+    "description": "Expirience 2 in the price of 1.50 of this all timer",
+    "image": {
+      "front": "https://static.mitchellandness.com/media/catalog/product/cache/29ebddadf1a3c823641fdb7752257a58/a/j/ajy45659-mhe07dwawhit_1.jpg", 
+      "back": "https://static.mitchellandness.com/media/catalog/product/cache/29ebddadf1a3c823641fdb7752257a58/a/j/ajy44945-mhe12dwablck_1.jpg"
+    },
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://picsum.photos/640/640?r=6565"
+    }
+  },
+  {
+    "id": 50,
+    "title": "FOCO",
+    "price": 60,
+    "description": "Make the most of a sunny game day with this Cleveland Browns top",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/406fffa4-6190-4ff4-bdf9-02fe5114bfda.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/a8379d9d-db55-4db5-b24d-04dbc684a723.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=6674"
+    }
+  },
+  {
+    "id": 51,
+    "title": "Oversized tt",
+    "price": 721,
+    "description": "Beachy artwork invites cooling breezes in a roomy, sleeveless T-shirt made for enjoying the weather in the comfort of soft, breathable cotton",
+    "image": {
+      "front": "https://n.nordstrommedia.com/id/sr3/77e2c950-cb1c-4830-9082-623bf07d4591.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196", 
+      "back": "https://n.nordstrommedia.com/id/sr3/0d1beb00-d026-4c27-b985-77bf6925c6ed.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    },
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": ""
+    }
+  },
+  {
+    "id": 52,
+    "title": "Sweat Col",
+    "price": 50,
+    "description": "Sweat Col Rond Coupe Large Avec İmprimé Hot Wheels",
+    "image": {
+      "front": "https://dfcdn.defacto.com.tr/7/Y7562AZ_22WN_AR191_05_02.jpg", 
+      "back": "https://dfcdn.defacto.com.tr/7/Y7562AZ_22WN_AR191_08_01.jpg"
+    },
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=7222"
+    }
+  }
+]
