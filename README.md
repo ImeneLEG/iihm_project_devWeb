@@ -4,9 +4,9 @@
 
 
 
-|Noms Complets des membres D'équipe  |  
-| -----------------| 
-| LEGSIR Imane  | 
-| ECHADLI Hamza |
-| BOUSHABA Imane|
-| BRIKA Meryeme |
+|Members of the teamWork |  
+|---------------------| 
+|     LEGSIR Imane    | 
+|     ECHADLI Hamza   |
+|     BOUSHABA Imane  |
+|     BRIKA Meryeme   |
