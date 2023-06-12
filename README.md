@@ -7,6 +7,6 @@
 |Members of the teamWork |  
 |---------------------| 
 |     LEGSIR Imane    | 
-|     ECHADLI Hamza   |
+|     ECH-CHADLI Hamza   |
 |     BOUSHABA Imane  |
 |     BRIKA Meryeme   |
