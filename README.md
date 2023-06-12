@@ -4,7 +4,7 @@
 
 
 
-|Noms Complets des membres D'équipe  |        
+|Noms Complets des membres D'équipe  |  
 | -----------------| 
 | LEGSIR Imane  | 
 | ECHADLI Hamza |
