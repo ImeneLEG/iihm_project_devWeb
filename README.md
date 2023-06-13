@@ -1,7 +1,7 @@
 ## IIHM OnLine Clothing Store 
 ### Descriptif video for IIHM webSite : 
 
-https://github.com/ImeneLEG/iihm_project_devWeb/assets/119754991/35cbbd1f-d552-4f5e-8d74-89e3a8300837
+https://github.com/ImeneLEG/iihm_project_devWeb/assets/119754991/7e936e3c-52e5-49c1-b32a-f6ad14d0d5f7
 
 
 
